@@ -1,0 +1,16 @@
+D:\Projects\DBTest\DBTest\bin\Release\DBTest.exe.config
+D:\Projects\DBTest\DBTest\bin\Release\DBTest.exe
+D:\Projects\DBTest\DBTest\bin\Release\DBTest.pdb
+D:\Projects\DBTest\DBTest\bin\Release\BLToolkit.4.dll
+D:\Projects\DBTest\DBTest\bin\Release\IsoftBaseLib.dll
+D:\Projects\DBTest\DBTest\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\DBTest\DBTest\obj\x86\Release\MainWindow.baml
+D:\Projects\DBTest\DBTest\obj\x86\Release\MainWindow.g.cs
+D:\Projects\DBTest\DBTest\obj\x86\Release\App.g.cs
+D:\Projects\DBTest\DBTest\obj\x86\Release\DBTest_MarkupCompile.cache
+D:\Projects\DBTest\DBTest\obj\x86\Release\DBTest.g.resources
+D:\Projects\DBTest\DBTest\obj\x86\Release\DBTest.Properties.Resources.resources
+D:\Projects\DBTest\DBTest\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\DBTest\DBTest\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\DBTest\DBTest\obj\x86\Release\DBTest.exe
+D:\Projects\DBTest\DBTest\obj\x86\Release\DBTest.pdb
