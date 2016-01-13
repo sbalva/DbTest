@@ -13,3 +13,6 @@ D:\DbTest\obj\x86\Debug\DBTest.Properties.Resources.resources
 D:\DbTest\obj\x86\Debug\DBTest.csproj.GenerateResource.Cache
 D:\DbTest\obj\x86\Debug\DBTest.exe
 D:\DbTest\obj\x86\Debug\DBTest.pdb
+D:\Projects\DBTest\DBTest\bin\Debug\DBTest.exe.config
+D:\Projects\DBTest\DBTest\obj\x86\Debug\DBTest.exe
+D:\Projects\DBTest\DBTest\obj\x86\Debug\DBTest.pdb

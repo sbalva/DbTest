@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-D:\DbTest\obj\x86\Debug\
+D:\Projects\DBTest\DBTest\obj\x86\Debug\
 DBTest
 none
 false
 DEBUG;TRACE
-D:\DbTest\App.xaml
+D:\Projects\DBTest\DBTest\App.xaml
 11151548125
 
-8-164511148
+8-991279024
 14-1631292680
 MainWindow.xaml;
 

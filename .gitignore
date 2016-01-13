@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+obj/x86/Debug/DBTest_MarkupCompile.i.cache
+DBTest.suo
+*.dll
+obj/x86/Debug/DBTest_MarkupCompile.i.cache
+*.cache
+obj/x86/Debug/DBTest.csproj.FileListAbsolute.txt
+*.suo
+obj/x86/Debug/DBTest_MarkupCompile.i.cache
+*.dll
