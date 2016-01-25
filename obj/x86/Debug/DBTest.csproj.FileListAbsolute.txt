@@ -1,0 +1,15 @@
+D:\DbTest\bin\Debug\DBTest.exe.config
+D:\DbTest\bin\Debug\DBTest.exe
+D:\DbTest\bin\Debug\DBTest.pdb
+D:\DbTest\bin\Debug\BLToolkit.4.dll
+D:\DbTest\bin\Debug\IsoftBaseLib.dll
+D:\DbTest\obj\x86\Debug\DBTest.csprojResolveAssemblyReference.cache
+D:\DbTest\obj\x86\Debug\MainWindow.baml
+D:\DbTest\obj\x86\Debug\MainWindow.g.cs
+D:\DbTest\obj\x86\Debug\App.g.cs
+D:\DbTest\obj\x86\Debug\DBTest_MarkupCompile.cache
+D:\DbTest\obj\x86\Debug\DBTest.g.resources
+D:\DbTest\obj\x86\Debug\DBTest.Properties.Resources.resources
+D:\DbTest\obj\x86\Debug\DBTest.csproj.GenerateResource.Cache
+D:\DbTest\obj\x86\Debug\DBTest.exe
+D:\DbTest\obj\x86\Debug\DBTest.pdb
